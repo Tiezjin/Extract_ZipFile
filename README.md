@@ -1,7 +1,5 @@
-# Extract_ZipFile
-Tkinkter GUI with Unzip Utility
-
 # Tkinter Zip Extractor
+Tkinkter GUI with Unzip Utility
 
 A lightweight and fast GUI tool for extracting ZIP archives, built because the Windows built-in extractor is significantly slower than Python's native libraries.
 
