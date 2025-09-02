@@ -52,7 +52,7 @@ If you have Python installed, you can run the tool directly from the source code
 2.  Click **"Select ZIP File"** to choose the archive you want to extract.
 3.  Click **"Select Output Folder"** to choose where to put the extracted files.
 4.  Click the big **"Extract!"** button.
-5.  Wait for the success message! A log will show you the progress.
+5.  Wait for the success message! A timer will show after finishing the extraction.
 
 ## For Developers: Building from Source
 
