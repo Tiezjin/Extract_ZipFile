@@ -53,7 +53,7 @@ def unzip_file_threaded(zip_path, extract_path, status_queue, thread_finished_ev
 class UnzipApp:
     def __init__(self, root): 
         self.root = root 
-        root.title("My Unzip Tool. Version 0.9") 
+        root.title("My Unzip Tool") 
         root.geometry("500x400") 
         root.resizable(False, False) 
         self.root.grid_columnconfigure(1, weight=1)
@@ -182,4 +182,5 @@ class UnzipApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = UnzipApp(root)
+
     root.mainloop()
