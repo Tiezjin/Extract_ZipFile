@@ -43,7 +43,7 @@ If you have Python installed, you can run the tool directly from the source code
     ```
 3.  **Run the application:**
     ```bash
-    python src/main.py
+    python ZipExtractor.py
     ```
 
 ## How to Use
@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 *   Built with Python and the amazing `tkinter` and `zipfile` modules.
-*   Developed with the assistance of Google Gemini, which provided guidance on code structure, implementation details, and troubleshooting.
+*   Developed with the AI assistance, which provided guidance on code structure, implementation details, and troubleshooting.
 *   Icon drawn by Google Gemini
 *   Text written by DeepSeek
