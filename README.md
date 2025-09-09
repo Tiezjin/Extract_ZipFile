@@ -5,7 +5,9 @@ A lightweight and fast GUI tool for extracting ZIP archives, built because the W
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ## Why This Exists
 
